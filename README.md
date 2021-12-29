@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IzabelleR
 - 👀 I’m interested in virtual reality and design
 - 🌱 I’m currently learning coding, WebXR, VR and AR using Three.JS
-- 💞️ I’m looking to collaborate on product design and customer experience
+- 💞️ I’m looking to collaborate on product design and customer experience within virtual reality
 - 📫 How to reach me izabelleribbenstrand@hotmail.com
 
 <!---
